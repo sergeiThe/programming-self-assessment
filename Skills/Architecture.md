@@ -1,5 +1,6 @@
 ## Architecture
 
+
 - Application structure
   - Modularity k
   - Components k
