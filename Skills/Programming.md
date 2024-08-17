@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model k
-  - Modeling k
-  - Subject domain h
-  - Algorithm e
-  - Syntax e
-  - Semantics h
-  - Abstraction e
-  - Paradigm k
-  - Programm k
-  - Programming paradigm k
-  - Programming language k
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 👂 heard
+  - Algorithm: 🙋 explained
+  - Syntax: 🙋 explained
+  - Semantics: 👂 heard
+  - Abstraction: 🙋 explained
+  - Paradigm: 🎓 known
+  - Programm: 🎓 known
+  - Programming paradigm: 🎓 known
+  - Programming language: 🎓 known
   - Contract
   - Module
   - Library
@@ -28,7 +28,7 @@
   - Control flow
   - Data flow
   - Code reuse
-  - Defensive programming h
+  - Defensive programming: 👂 heard
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
@@ -202,10 +202,10 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode k
-  - V8 k
+  - Bytecode: 🎓 known
+  - V8: 🎓 known
   - VJM
-  - CLR k
+  - CLR: 🎓 known
   - Mono
 - Operating systems
   - Interrupts
@@ -222,18 +222,18 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII h
-  - Escape sequence k
+  - ASCII: 👂 heard
+  - Escape sequence: 🎓 known
   - RFC
   - IETF
   - IANA
-  - IEEE h
-  - Base64 h
-  - ECMA k
+  - IEEE: 👂 heard
+  - Base64: 👂 heard
+  - ECMA: 🎓 known
   - ICANN
-  - ISO h
+  - ISO: 👂 heard
   - MIME
-  - OWASP h
-  - UTF-8 k
-  - W3C h
+  - OWASP: 👂 heard
+  - UTF-8: 🎓 known
+  - W3C: 👂 heard
   - ODMG
